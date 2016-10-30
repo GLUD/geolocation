@@ -3,7 +3,7 @@ class: center, middle
 
 # Lignum
 
-.center[![Center-aligned image](/home/np300e4z/Descargas/gnu.png)]
+.center[![Center-aligned image](images/gnu.png)]
 
 ---
 
@@ -27,7 +27,7 @@ class: bottom, right
 
 class: middle, center
 
-.center[![center-aligned image](/home/np300e4z/Descargas/p1.png)]
+.center[![center-aligned image](images/p1.png)]
 
 ## The Problem
 In **Colombia** there are **1,143,992** registered **visually impaired.**
@@ -47,7 +47,7 @@ class: middle, center
 
 class: bottom, right
 
-.center[![center-aligned image](/home/np300e4z/Descargas/inception.png)]
+.center[![center-aligned image](images/inception.png)]
 
 ### Inception TensorFlow
 
@@ -84,7 +84,7 @@ class: left, center
 
 ## Solution
 
-.center[![center-aligned image](/home/np300e4z/Descargas/sol.png)]
+.center[![center-aligned image](images/sol.png)]
 
 ---
 
